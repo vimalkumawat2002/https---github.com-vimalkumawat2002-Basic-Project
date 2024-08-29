@@ -9,7 +9,7 @@ const Home = () => {
     <View style={styles.container}>
       <View style={styles.main}>
         <Text>
-          Good Morning, <Text style={{fontWeight: 'bold'}}>Jenifer</Text>
+          Good Morning, all of my friends <Text style={{fontWeight: 'bold'}}>Jenifer</Text>
         </Text>
         <MaterialIcons name="notifications" size={30} color="black" />
       </View>
